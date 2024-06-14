@@ -13,4 +13,5 @@ This repository is the group coursework assignment for Applied statistical Infer
 The coursework set this year applied content mainly on the first 5 chapters of Core Statistics by Simon N Wood. 
 
 PDF coursework instructions: ASI Coursework instructions.pdf
+
 PDF submission file: Submission no html bug/MA40198 CW HTML fix PDF.pdf
